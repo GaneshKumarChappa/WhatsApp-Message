@@ -4,19 +4,19 @@ body{
 h1{
     color: green;
 }
-#id1
+#number
 {
     width: 350px;
     border-radius: 5px;
 }
-#id2
+#text
 {
     margin-top: 30px;
     border-radius: 5px;
     height: 300px;
     width: 350px;
 }
-button{
+#send{
     margin-top: 30px;
     background-color: green;
     color: ivory;
